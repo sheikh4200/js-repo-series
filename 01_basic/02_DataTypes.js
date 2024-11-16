@@ -15,12 +15,8 @@ let name = null
 //object
 //class
 //array
-
-// to change datatype of any like string
 console.log(typeof abc)
-console.log(typeof null)
 
-console.log(typeof ab)
-// console.log(abc)
-// console.log(abc)
+
+
 
